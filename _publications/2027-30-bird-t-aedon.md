@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/
 excerpt: ''
-date: 
+date: 2027
 venue: '<i>Journal of Avian Biology<i>'
 paperurl: 'tba'
 citation: 'tba'
