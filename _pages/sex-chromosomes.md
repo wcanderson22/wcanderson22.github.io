@@ -5,8 +5,6 @@ permalink: /research/sex-chromosomes/
 author_profile: true
 ---
 
-# Sex Chromosome Evolution in Birds
-
 Your detailed research description goes here.
 
 ## Current Projects
