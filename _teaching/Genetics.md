@@ -8,7 +8,7 @@ date: 2025-08-29 through 2025-12-03
 location: "Boulder, Colorado, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led three weekly recitation periods to improve student learning outcomes for EBIO 2070: Genetics: From Molecules to Populations. This included a short lecture in the beginning of the period followed by an independent student work period.
 
 Heading 1
 ======
