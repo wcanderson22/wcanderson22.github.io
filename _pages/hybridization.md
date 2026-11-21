@@ -5,8 +5,6 @@ permalink: /research/hybridization/
 author_profile: true
 ---
 
-# Genomic Divergence and Hybridization
-
 Your detailed research description goes here.
 
 ## Current Projects
