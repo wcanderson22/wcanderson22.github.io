@@ -8,7 +8,7 @@ date: 2022-08-29 through 2022-12-05
 location: "Boulder, Colorado"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led three weekly, 110 minute laboratory sections for General Biology (EBIO 1240). Each class consisted of eighteen students. Responsibilities included lecturing, grading, and writing quizzes.
 
 Heading 1
 ======
