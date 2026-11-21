@@ -17,7 +17,7 @@ I am also generally fascinated by the broad reaching questions that can be answe
 
 ## Research
 
-My research program encompasses three primary areas:
+My research interests encompass three primary areas:
 
 - [Sex Chromosome Evolution in Birds](/research/sex-chromosomes/)
 - [Genomic Divergence and Hybridization](/research/hybridization/)
