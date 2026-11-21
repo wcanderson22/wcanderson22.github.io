@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/General_biology
 venue: "University of Colorado, Boulder, Department of Ecology and Evolutionary Biology"
-date: 2022-08-29
+date: 2022-08-29 through 2022-12-05
 location: "Boulder, Colorado"
 ---
 
