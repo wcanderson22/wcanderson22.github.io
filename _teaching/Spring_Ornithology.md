@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/Spring_Ornithology
+venue: "University of Colorado, Boulder, Department of Ecology and Evolutionary Biology"
+date: Spring 2023,2024,2025
+location: "Boulder, Colorado, United States"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
