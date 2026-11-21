@@ -9,7 +9,7 @@ Your detailed research description goes here.
 
 ## Current Projects
 
-### Northern Pygmy-Owl (<i>Glaucidium gnoma </i>) Evolution
+### Northern Pygmy-Owl (<i>Glaucidium gnoma</i>) Evolution
 
 Description of your pygmy-owl research.
 
