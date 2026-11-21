@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: single
 title: "Research Program"
@@ -55,4 +54,3 @@ Current projects include investigating evolutionary differentiation within the N
 ## Publications
 
 For peer-reviewed publications associated with these research areas, please visit my [Publications](/publications/) page.
-```
