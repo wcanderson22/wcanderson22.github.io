@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Your Paper Title"
+title: "A putative Z-chromosome inversion underlies genomic divergence in northern house wrens despite few differences in song, morphology, or plumage"
 collection: publications
 category: manuscripts
 status: inpress
@@ -8,9 +8,9 @@ permalink: /publication/2027-30-bird-t-aedon/
 excerpt: 'Brief description of the paper.'
 date: 2026-11-21
 venue: 'Journal of Avian Biology'
-citation: 'Anderson, W. C., et al. (in press). "Your Paper Title." <i>Journal of Avian Biology</i>.'
+citation: '<b>Anderson, W. C.</b>, H. L. Kenyon, O. K. Robertson, J. R. Sosa-López, D. J. Mennill, A. Theodosopoulos, E. R. Funk, K. Grabenstein, G. M. Spellman, and S. A. Taylor. (in press). "A putative Z-chromosome inversion underlies genomic divergence in northern house wrens despite few differences in song, morphology, or plumage." <i>Journal of Avian Biology</i>.'
 ---
 
-## Description
+Cryptic population genetic structure—significant genetic differentiation despite limited phenotypic divergence—is being increasingly documented in birds as genomic sequencing enables more comprehensive characterization of population variation. Recently, cryptic population genetic structure in the northern house wren, T. aedon, was detected using reduced representation approaches. However, the genomic architecture underlying differentiation between the eastern subspecies, T. a. aedon, and the western subspecies, T. a. parkmanii, has not been characterized. To understand patterns of genomic differentiation in northern house wren, we sequenced 30 whole genomes, including 20 from within a putative contact zone in Colorado (Interior West) and five each from within the range of T. a. aedon (Eastern) and T. a. parkmanii (Pacific) allopatric populations. Additionally, we tested if the currently recognized subspecies are discernable by vocal, morphological, and plumage characters. Our genomic data reveal previously undocumented genetic variation within the northern house wren. Some vocal and morphological measurements differ between eastern and western populations, with characters near the genetic contact zone (~105 degrees west longitude) showing intermediate values; however, we found no significant differences in plumage between the subspecies or genetic populations and no evidence of clinal variation in any characters. Our findings highlight the phenotypic similarities between different subspecies of northern house wren and identify a putative chromosomal inversion on the northern house wren Z chromosome with three haplogroups that broadly correspond to geography.
 
-Your paper description goes here.
+---
