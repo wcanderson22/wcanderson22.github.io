@@ -23,7 +23,7 @@ repository               : "wcanderson22/wcanderson22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpeg"
   name             : "Will Anderson"
   pronouns         : "He/Him"  
   bio              : "Evolutionary Biologist with a focus on the generation of novel biodiversity"
