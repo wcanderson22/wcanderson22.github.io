@@ -2,7 +2,7 @@
 title: "Weak population structure in the North American house wren"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-05-weak-population-structure-t-aedon
+permalink: /publication/2025-02-05-weak-population-structure-t-aedon/
 excerpt: 'We investigated population genetic differentiation and potential hybridization between eastern and western northern house wrens using ddRAD sequencing of 127 individuals, revealing weak population structure and evidence that the eastern subspecies occurs farther west than previously recognized.'
 date: 2025-02-05
 venue: 'Journal of Avian Biology'
