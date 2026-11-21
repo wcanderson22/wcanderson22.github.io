@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "General Biology 1 and 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/General_biology
+venue: "University of Colorado, Boulder, Department of Ecology and Evolutionary Biology"
+date: Fall 2022
+location: "Boulder, Colorado"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
