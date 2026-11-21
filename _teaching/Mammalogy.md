@@ -8,7 +8,7 @@ date: 2023-08-25 through 2023-12-08
 location: "University of Colorado, Boulder, Colorado, United States"
 ---
 
-Lead two weekly, 170 minute laboratory sections for Mammalogy (EBIO 4760). Each class consisted of fifteen to eighteen students. Responsibilities included lecturing, grading, writing quizzes, and leading two out of classroom field trips to Rocky Mountain National Park.
+Led two weekly, 170 minute laboratory sections for Mammalogy (EBIO 4760). Each class consisted of fifteen to eighteen students. Responsibilities included lecturing, grading, writing quizzes, and leading two out of classroom field trips to Rocky Mountain National Park.
 
 Heading 1
 ======
