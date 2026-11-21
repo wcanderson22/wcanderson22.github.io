@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Genetics
 venue: "University of Colorado, Boulder, Department of Ecology and Evolutionary Biology"
-date: Fall 2025
+date: 2025-08-29 through 2025-12-03
 location: "Boulder, Colorado, US"
 ---
 
