@@ -7,22 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Taylor Lab at the University of Colorado, Boulder. I am interested in using genomic tools to explore the biological processes that generate novel biodiversity. My dissertation is focused on the Northern House Wren and documenting and understanding the cryptic genetic diversity therein.
-
-I am also developing an interest in sex chromosomes, sex chromosome evolution, and their role in speciation, specifically focusing on neo-sex chromsomes in Chickadees and Northern House Wrens.  
+I am a Ph.D. Candidate in the Taylor Lab at the University of Colorado, Boulder. My research focuses on evolutionary genomics, speciation, and the genomic architecture of divergence in birds. I integrate whole-genome sequencing, population genomics, comparative genomics, and field-based natural history to investigate how evolutionary processes generate and maintain biodiversity.
 
 
-## About Me
+My dissertation is focused on various aspects of the Northern House Wren <i>Troglodytes aedon</i>, inclduing documenting and understanding the cryptic genetic diversity across the three main subspcies <i>T. a. aedon</i>, <i>T. a. parkmanii</i>, and <i>T. a. brunneicollis</i>. I am also developing an interest in sex chromosomes, sex chromosome evolution, and their role in speciation, specifically focusing on neo-sex chromsomes in various <i>Poecile</i> species and Northern House Wrens.  
 
-I am an evolutionary biologist and PhD researcher at the
-University of Colorado Boulder. My research focuses on
-evolutionary genomics, speciation, and the genomic
-architecture of divergence in birds.
+I am also generally fascinated by the broad reaching questions that can be answered with genomics, leading me to participate in a broad swath of both field-based and computational projects, including phylogeography of <i>Formica</i> ants, hybridization dynamics of <i>Cycloramphus</i> frogs, and the genomic basis of body size in the North American Rosy-finches (<i>Leucosticte</i> sp). 
 
-I integrate whole-genome sequencing, population genomics,
-comparative genomics, and field-based natural history
-to investigate how evolutionary processes generate and
-maintain biodiversity.
 
 ## Research
 
