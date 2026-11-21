@@ -3,7 +3,7 @@ title: "Northward range expansion and breeding evidence of Crissal Thrasher, Tox
 collection: publications
 category: manuscripts
 permalink: /publication/2026-11-12-check-list-range-expansion
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Geographic distributions of many bird species have shifted in recent decades. Here, we present evidence that two desert southwest species of passerine bird, the Crissal Thrasher, <i>Toxostoma crissale<i> Henry, 1858, and the Cactus Wren, <i>Campylorhynchus brunneicapillus<i> (Lafresnaye, 1835), are expanding their breeding ranges northward into novel geographic areas in the state of Colorado.'
 date: 2026-11-12
 venue: 'Journal of Avian Biology'
 paperurl: 'https://checklist.pensoft.net/article/206938/'
