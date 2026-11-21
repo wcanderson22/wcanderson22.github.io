@@ -15,7 +15,7 @@ Description of your house wren research.
 
 ### Chickadee Hybridization
 
-Description of your chickadee research.
+The genus <i>Poecile</i> is a fascinating genus in which to study hybridization.  
 
 ## Relevant Publications
 
