@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Research Program"
+title: "Research Overview"
 permalink: /research/
 author_profile: true
 ---
-
-## Research Overview
 
 My research focuses on understanding the evolutionary processes that generate and maintain biodiversity, with particular emphasis on evolutionary genomics, speciation, and the genomic architecture of divergence. I am especially interested in how structural genomic variation, hybridization, and geographic isolation influence evolutionary trajectories and contribute to the formation and maintenance of species boundaries.
 
