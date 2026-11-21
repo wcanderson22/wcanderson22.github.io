@@ -5,8 +5,6 @@ permalink: /research/phylogeography/
 author_profile: true
 ---
 
-# Avian Phylogeography and Speciation
-
 Your detailed research description goes here.
 
 ## Current Projects
