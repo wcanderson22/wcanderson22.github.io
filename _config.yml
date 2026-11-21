@@ -24,13 +24,13 @@ repository               : "wcanderson22/wcanderson22.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Will Anderson"
+  pronouns         : "He/Him"  
+  bio              : "Evolutionary Biologist with a focus on the generation of novel biodiversity"
+  location         : "Colorado, United States"
+  employer         : "University of Colorado, Boulder"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wian6764@colorado.edu" 
 
   # Academic websites
   academia         : # URL
