@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Ornithology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Spring_Ornithology
@@ -8,7 +8,7 @@ date: 2026-01-10 through 2026-05-03
 location: "Boulder, Colorado, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead two weekly, 170 minute laboratory sections for Ornithology (EBIO 4750). Each class consisted of fifteen students. Responsibilities included lecturing, grading, writing quizzes, and leading four out of classroom field trips.
 
 Heading 1
 ======
