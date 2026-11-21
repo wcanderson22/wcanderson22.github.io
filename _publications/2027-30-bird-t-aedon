@@ -1,0 +1,16 @@
+---
+layout: single
+title: "Your Paper Title"
+collection: publications
+category: manuscripts
+status: inpress
+permalink: /publication/2027-30-bird-t-aedon/
+excerpt: 'Brief description of the paper.'
+date: 2026-11-21
+venue: 'Journal of Avian Biology'
+citation: 'Anderson, W. C., et al. (in press). "Your Paper Title." <i>Journal of Avian Biology</i>.'
+---
+
+## Description
+
+Your paper description goes here.
