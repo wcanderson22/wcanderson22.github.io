@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Spring_Ornithology
 venue: "University of Colorado, Boulder, Department of Ecology and Evolutionary Biology"
-date: Spring 2023,2024,2025
+date: 2026-01-10 through 2026-05-03
 location: "Boulder, Colorado, United States"
 ---
 
