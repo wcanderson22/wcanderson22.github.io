@@ -35,3 +35,5 @@ My research has been published in journals including
 View my [Publications](/publications/) page for a complete
 list of published and accepted manuscripts.
 
+## Contact me 
+wian6764@colorado.edu
